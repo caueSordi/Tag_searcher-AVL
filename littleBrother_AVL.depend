@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1703125291 source:c:\users\caues\onedrive\햞ea de trabalho\t2\littlebrother_avl\binarytree.c
+	"BinaryTree.h"
+
+1703125378 c:\users\caues\onedrive\햞ea de trabalho\t2\littlebrother_avl\binarytree.h
+	<stdbool.h>
+	"infoStruct.h"
+
+1703125438 c:\users\caues\onedrive\햞ea de trabalho\t2\littlebrother_avl\infostruct.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1703125488 source:c:\users\caues\onedrive\햞ea de trabalho\t2\littlebrother_avl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BinaryTree.h"
+	"AVL.h"
+
+1703125465 c:\users\caues\onedrive\햞ea de trabalho\t2\littlebrother_avl\avl.h
+
